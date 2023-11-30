@@ -1,0 +1,8 @@
+**/.DS_Store
+**/settings.json
+**/*.class
+**/*.png
+**/*.xlsx
+**/*.zip
+**/.vscode
+**/bin
